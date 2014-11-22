@@ -1,0 +1,4 @@
+# Django - Rest Framework Throttling
+
+Provides a configurable, per user throttling. Comes with a handy admin
+interface.
